@@ -6,6 +6,11 @@ The application is and engineered to consume minimal resources when parsing larg
 
 ---
 
+## Part of the Ostium toolset
+
+IAnon is one of the Ostium tools — see also
+[Ostium OSINT Browser](https://github.com/icaza/Ostium-Osint-Browser)
+
 ## Key Highlights
 
 - **Extreme Performance & Minimal Memory**:
